@@ -15,3 +15,4 @@ template-computo-R.pdf
 /.quarto/
 _extensions/
 renv/
+/_site/
